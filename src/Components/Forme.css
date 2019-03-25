@@ -1,0 +1,58 @@
+#form{
+    border: 2px solid aqua;
+    width: 340px;
+    height: 350px;
+    background-color: hsla(61, 98%, 52%, 0.882);
+}
+
+#formul{
+    margin-left: 30%;
+    padding-top: 40px;
+}
+#za{
+    margin-top: 20px;
+}
+
+#erer{
+    color: red;
+    font-size: 12px;
+    margin-left: 50px;
+}
+
+#gras{
+    font-style: gras;
+}
+
+button{
+    width: 305px;
+    margin-top: 10px;
+    margin-right: 5px;
+    padding-top: 15px;
+}
+
+.btn-file {
+    position: relative;
+    overflow: hidden;
+    margin-left:216px;
+    width: 100px;
+    margin-top: 10px;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 100px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;   
+    cursor: inherit;
+    display: block;
+}
+
+#ajout{
+    margin-top: 20px;
+    margin-left: 10px;
+}
